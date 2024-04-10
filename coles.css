@@ -1,0 +1,48 @@
+body {
+    background-image: url(bck.jpg);
+    max-width: 53%;
+    max-height: 70%;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(190, 133, 26);
+}
+
+div {
+    width: 48%;
+    height: 80%;
+    float: left;
+    color: wheat;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-image: url(ddd.jpg);
+}
+
+#h2k {
+    color: rgb(184, 17, 17);
+}
+
+dt {
+    color: rgb(134, 47, 47);
+}
+
+#divh {
+    height: 80%;
+    width: 48%;
+    float: right;
+    color: wheat;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-image: url(ddd.jpg);       
+}
+
+p {
+    color: rgb(175, 116, 126);
+}
+ 
