@@ -1,7 +1,14 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-image: url(bck.jpg);
     max-width: 53%;
     max-height: 70%;
+    align-items: center;
+    position: absolute;
 }
 
 h1{
@@ -39,7 +46,7 @@ dt {
     color: wheat;
     border: 1px solid white;
     border-radius: 20px;
-    background-image: url(ddd.jpg);       
+    background-image: url(ddd.jpg);
 }
 
 p {
